@@ -59,8 +59,8 @@
     "name": "",
     "layout": {
       "center_x": 0.0,
-      "center_y": -2,
-      "width": 4
+      "center_y": -0.5,
+      "width": 2
     },
     "hit_areas": [
         {
