@@ -4,6 +4,12 @@
 	"textures": [
 		"model.1024/texture_00.png"
 	],
+	"layout": {
+	"layout": {
+	  "center_x": 0.0,
+	  "center_y": -0.3,
+	  "width": 1.6
+	},
 	"motions": {
 		"idle": [{
 			"file": "daiji_idle_01.mtn","fade_in":0,"fade_out":0
